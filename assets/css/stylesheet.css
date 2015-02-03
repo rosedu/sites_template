@@ -18,6 +18,10 @@ a:hover {
   user-select: none;
 }
 
+.myheading {
+  padding-top: 7%;
+}
+
 /*-----------------------
     Main menu
 -----------------------*/
