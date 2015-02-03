@@ -18,8 +18,12 @@ a:hover {
   user-select: none;
 }
 
-.myheading {
-  padding-top: 7%;
+.section-heading {
+    border-top: 80px solid transparent;
+    margin-top: -50px;
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding;
+    background-clip: padding-box;
 }
 
 /*-----------------------
